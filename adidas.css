@@ -1,23 +1,21 @@
 .text {
-    color: aquamarine;
-    text-align: start;
-    font: bolder;
-    float: left ;
+  color: aquamarine;
+  text-align: start;
+  font: bolder;
 }
 .text {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: black;
-    text-align: start;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: black;
+  text-align: start;
 }
 .size-14 {
-    background-color: azure;
-    
+  background-color: azure;
 }
 p.author {
-    color: rgb(66, 60, 60);
-    text-align: left center;
-    
+  color: rgb(66, 60, 60);
+  text-align: left center;
 }
-image {
-    float: 
+img {
+  float: right;
+  width: 200px;
 }
